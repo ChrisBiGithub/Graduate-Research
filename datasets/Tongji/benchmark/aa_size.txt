@@ -1,0 +1,89 @@
+>> strPRIP
+The 1th protein 3IZV_M:
+aa size: 129
+The 2th protein 2RRA_A:
+aa size: 99
+The 3th protein 2XZN_F:
+aa size: 89
+The 4th protein 2XZN_W:
+aa size: 259
+The 5th protein 3Q2T_A:
+aa size: 205
+The 6th protein 2XZM_X:
+aa size: 68
+The 7th protein 2XZN_J:
+aa size: 105
+The 8th protein 2Y13_9:
+aa size: 37
+The 9th protein 2XZN_V:
+aa size: 121
+The 10th protein 3Q1R_A:
+aa size: 112
+The 11th protein 3J00_G:
+aa size: 178
+The 12th protein 2XZN_P:
+aa size: 148
+The 13th protein 2XZM_8:
+aa size: 93
+The 14th protein 2XZM_I:
+aa size: 143
+The 15th protein 3PIP_T:
+aa size: 74
+The 16th protein 3J01_5:
+aa size: 234
+The 17th protein 2XZM_Q:
+aa size: 157
+The 18th protein 2XZM_B:
+aa size: 204
+The 19th protein 2XZM_C:
+aa size: 229
+The 20th protein 2XZM_D:
+aa size: 179
+The 21th protein 2L5D_A:
+aa size: 134
+The 22th protein 2XZN_2:
+aa size: 207
+The 23th protein 2XZN_O:
+aa size: 150
+The 24th protein 3PDM_P:
+aa size: 162
+The 25th protein 2XZN_L:
+aa size: 141
+The 26th protein 2XZM_M:
+aa size: 154
+The 27th protein 2XZM_G:
+aa size: 192
+The 28th protein 2XZM_5:
+aa size: 98
+The 29th protein 3IZW_R:
+aa size: 100
+The 30th protein 2XZM_9:
+aa size: 73
+The 31th protein 3PIP_G:
+aa size: 142
+The 32th protein 2XZM_3:
+aa size: 196
+The 33th protein 2XZM_4:
+aa size: 215
+The 34th protein 2XZM_E:
+aa size: 230
+The 35th protein 3IZV_X:
+aa size: 86
+The 36th protein 2XD0_A:
+aa size: 162
+The 37th protein 2XXA_D:
+aa size: 283
+The 38th protein 3PLA_E:
+aa size: 227
+The 39th protein 2XZN_7:
+aa size: 104
+The 40th protein 2XZM_U:
+aa size: 124
+The 41th protein 3PIP_F:
+aa size: 63
+The 42th protein 3IZW_I:
+aa size: 166
+The 43th protein 2XZN_6:
+aa size: 80
+The 44th protein 2XZM_S:
+aa size: 125
